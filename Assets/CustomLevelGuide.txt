@@ -1,0 +1,19 @@
+To create a custom level, a txt file should be edited to have the following content, then changed to a .lvl file:
+
+Line 1 - Task: a text description of what the user needs to do to complete the level
+Line 2 - TaskCode: the exact output the code should produce to complete the level, each value seperated by the & symbol
+Line 3 - Constraints: a text description of the constraints imposed on the user for completing the level
+Line 4 - MustHaveCode: exact snippets of code that must be present in the user's code for the level to be passed, each value seperated by the & symbol
+Line 5 - LimitsCode: exact snippets of code followed by a single-digit number representing the number of times that snippet can appear in the user's code, each snippet seperated by the & symbol
+Line 6 - Hint: a hint available to the user to guide them to the solution for the level
+
+(A snippet in the MustHaveCode can start with $ for it to be added to the code input area when the level is loaded)
+(Constraints, MustHaveCode, and LimitsCode can be ommitted - leave an empty newline where they would be)
+
+E.G:
+Without removing the line 'INT i = RANDOM INT;', and without using 'i =', output i when it has a value of 500
+500
+Can't remove first line, must output i, cant use 'i ='
+$INT i = random INT;&PRINTi
+i=10&i=20&i=30&i=40&i=50&i=60&i=70&i=80&i=90&i=00
+Use 2 WHILE loops to increment i when its below 1100, and decrement i when its above 1100

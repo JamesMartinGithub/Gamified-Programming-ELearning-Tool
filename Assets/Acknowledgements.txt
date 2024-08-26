@@ -1,0 +1,13 @@
+IBM Plex Mono - Font
+https://fonts.google.com/specimen/IBM+Plex+Mono
+
+CSLY - Lexer Generator
+https://github.com/b3b00/csly
+
+Freepik - Images
+https://www.freepik.com/free-vector/women-hairstyle-men-hair-style-hipster-set_11058798.htm#fromView=search&page=1&position=5&uuid=7bd6f965-0c58-481f-b26a-88385815d491 Image by macrovector on Freepik
+https://www.freepik.com/free-vector/male-avatar-collection_823830.htm#fromView=image_search_similar&page=1&position=34&uuid=19941ad5-5391-40fd-949e-606daa6ba321 Image by Freepik
+https://www.freepik.com/free-vector/woman-avatar-icons-set_3795054.htm#fromView=search&page=1&position=19&uuid=91f5d91c-6292-499a-ac6c-2be45aadc30f Image by macrovector on Freepik
+
+yasirkula - File Browser
+https://github.com/yasirkula/UnitySimpleFileBrowser

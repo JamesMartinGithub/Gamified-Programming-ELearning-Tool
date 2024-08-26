@@ -1,0 +1,2826 @@
+fileFormatVersion: 2
+guid: f0a14e2b771102a40a7d75e4b6cecd34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Operation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c793aae98724b42a8cffb48e402f9c
+      internalID: -1892016280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c82f5151b1a9468bdfb2a8fe7fac7
+      internalID: -1687852392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10750fa19f12eaa4db14ecdef9a103bb
+      internalID: 983521690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd524531f993bd643863cd7de486c25b
+      internalID: -141271779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_4
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89394c03b4344404992c57c586f20a1f
+      internalID: 1752210590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_5
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02a96a3edcda2e48bfd4804e552c472
+      internalID: -1827636646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_6
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5471a2e4f8192e4cabcfc320c3a9edf
+      internalID: 1058017326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_7
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 9150
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d164fe6861ce4c9c66b5fef9a099e
+      internalID: 329819278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfacbfd95f8214e80a8bfb0e20bc5d
+      internalID: 1911917023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c47dfd596835f459305c7771b02b52
+      internalID: -1557746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b724f176597941b5f4899c4f71cea
+      internalID: -1621332396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_11
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaed181673e3e54c85bbcbdf8449d53
+      internalID: -1344114692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_12
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f2e24670686e4692edcfcbd892dcf
+      internalID: 434202635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_13
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757eb3477bdcccc428a17e6156d57005
+      internalID: 868936243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_14
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac681c608444bc4d8fde9501a09fdf8
+      internalID: -1803291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_15
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 8540
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03c33d355b23548aa6acdd6a2e0358
+      internalID: -1120380580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951a7e63ab62a04c9d7a55c9e433912
+      internalID: 2132300407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7cf1931ccf55941856faa780e0a154
+      internalID: 1200183368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_18
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f465a784a0a3ca46bb307b95753a1fb
+      internalID: -1230231801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_19
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f910def3d6ed4988af9b4578dfb26
+      internalID: -1504786095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_20
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733ed2eaee1b9340a018172127ae068
+      internalID: -693874261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_21
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7ad9478062b1448cfefa46152dfb5
+      internalID: -1024767177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_22
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0878f72c95c85c43a460f500dd51448
+      internalID: 1748716858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_23
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 7930
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd3a22ffe010c488f268d0ed310eda
+      internalID: -711458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd55fe182a40c4895d9f9b911d57bd
+      internalID: -1629868432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6cd2693d954d448b35dc9026c6aca5
+      internalID: 1828093451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_26
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4bfe9bddb2d04e8e035900c5007d6
+      internalID: -282128152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_27
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bedc5c965e17c4093b41c9f3fec9ac
+      internalID: -25160673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_28
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f22696fd0c97324b9e1989429eb3b0b
+      internalID: -229364505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_29
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685952c069a2eb46a916d1190b5f586
+      internalID: 545305968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_30
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5106385f7b5f51544baceef9e9110bf1
+      internalID: 1122003212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_31
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 7320
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739f131f6070c84aa664e89439cf838
+      internalID: -492826116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff144414fbc88fe4782ccc1fd2e1fb23
+      internalID: 1491678130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_33
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47d0a223b3a7404c9652f81294e9793
+      internalID: -2065828444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43045ff83771b8e43a80ee32b64f1434
+      internalID: -636902845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_35
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae7f7e870e54974ea103b559193c9ad
+      internalID: 1497781867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_36
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f17a2903222c4d42a59629f7564646c
+      internalID: 1894835545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_37
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef9157c54fa614abc758008b31d439
+      internalID: 1063936531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_38
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133137c32a9cc424f8e5149d6da88400
+      internalID: 1163439098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_39
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 6710
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc4f7623e6ddc43a471a711d5136ff
+      internalID: -1493229178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8643ed49f2c55ab40966bc3f5dc4ed60
+      internalID: 1256919162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7557eecc7f41459eb1c4df1d78df3
+      internalID: -1747467845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_42
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850978a841b5074782e0c1e983d1079
+      internalID: 554479431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_43
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a0d7fab15815419f0974baaaf1d17
+      internalID: -544851162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_44
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d75c8216592743a122835841b7051
+      internalID: -1578012784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_45
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4741fcfd6ccde47840e11c8c392dc1
+      internalID: 1208578760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_46
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433123f8140e51498ba2e9989bb6e13
+      internalID: -1494216599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_47
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 6100
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4ebb7c409d4743b95a7426b19a8ef
+      internalID: -484337789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b7cf0fa2de1b4f8b0d552cb02e1b5
+      internalID: -441746124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_49
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11987c88f9eadd40b4be28144d4346e
+      internalID: -963550069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_50
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e523c84bb51a4b94534ca1dc5558e
+      internalID: 1111140830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_51
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac319474659a64d8fa11853b99e574
+      internalID: 1097634296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_52
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ddbee41cd6c0419602720d5317f53
+      internalID: 916396967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_53
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a47b7268c7e5f4b9749e564a7a316b
+      internalID: -2121002856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_54
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb48a60e6487a74abcdceefcfb6cd2d
+      internalID: 1619227382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_55
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 5490
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba32ad257561aa448ecef457a8f2f49
+      internalID: -990607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f08f0866c517704bae6fcd66e7cc410
+      internalID: 1359965274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_57
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3fd4f9a8e93448b9622e04c72aeb2
+      internalID: 722198530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_58
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93681bb58e1af44a37d4ff41450e25
+      internalID: 1558740949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_59
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451ab72391e45dd44bb1afa007bb7ae0
+      internalID: 1233794009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_60
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088919e1f4283f408b2d24085001ea6
+      internalID: 848918997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_61
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c363581b785c43b6d7f1b83acf284
+      internalID: -1335086937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_62
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1a80e9c33ace4d987b63a30b67e69
+      internalID: 395167648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_63
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 4880
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972761d11e48504293509d5bdad4af5
+      internalID: 777250505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c1ff302c9e1d43a42016eb3f309de
+      internalID: -1734897862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef8f7e42da7ef4f8db70a9f5576d36
+      internalID: -1831277211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_66
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f631ad0e6bff14eb85c96ba9f36f55
+      internalID: 1897623933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_67
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb386c247fe5a479211cf4f8a3a546
+      internalID: 1250571949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_68
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189cb0599ade1d64ab1f70776c2c5df6
+      internalID: 2048616144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_69
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8c434160f22f24dad421dc0e29ea9a
+      internalID: 45434705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_70
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483eba9b7755a54689bb02d1dbab9bd
+      internalID: -1205050527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_71
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 4270
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc2d16b7ab6c4e46abe92eef17b7f8c
+      internalID: -357624231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f7d8672521684c88a8ae82555b3d6
+      internalID: 1370369401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_73
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7279d45f373504cb1bd23e75cb3363
+      internalID: 1801662428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_74
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ec7e753f88ac448a174e9cc0031aa
+      internalID: -836369830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_75
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d47475fbcb1e244b036abd30f92295
+      internalID: -1128987226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_76
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3f838265ce1a49a6152b50a970faa
+      internalID: -1951447129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_77
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28cc37a51dae4409f9f9350134bbbe
+      internalID: -1662634372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_78
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c81cfdffc03241b44e1ee1f3479bc
+      internalID: 623477474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_79
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3660
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff5582608fe234db55ba957d445073
+      internalID: 1364061449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7884b71240abda946b583d068f327d89
+      internalID: 1634891225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_81
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c602a2636dda54798a62a8a97fc72d
+      internalID: 1215510707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_82
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4ab179850a8443b318f79198355aa
+      internalID: 1784366790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_83
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308d5d6bc5b22447a98ae25915278de
+      internalID: -1256572318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_84
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6868da3820ab1924ab6d65ad6b6cc76c
+      internalID: 127014680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_85
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589dcd63c0f7114ba39fc970408ca17
+      internalID: 1023563169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_86
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5b0e426781e7744825ed3e03c759df
+      internalID: 817983104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_87
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3050
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f78502b1d8e0448fac56e31cf8e68
+      internalID: -246581431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50779f46e6ebf049b8e1f6a6f38f63d
+      internalID: 1021117588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_89
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd2b08329f45e42a4e07e4cde458c7
+      internalID: 989809916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_90
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05f817607aa9348b2ee0eaec7ccb4b
+      internalID: -76111855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_91
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a181a2212d5343a703810a2f50b64
+      internalID: 1658739916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_92
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cbd5cd03ca36347ad69f343bfc871c
+      internalID: 1794476115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_93
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648973b3828c1364aa8a231762680391
+      internalID: -1786018094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_94
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e558473702b14fafa8c763f41b7ec
+      internalID: -1855600275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_95
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 2440
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3373ed9ef95b034592388dcbfb5e95e
+      internalID: 2037669106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ddc6768dbae4429fa9abdbe56bb9c
+      internalID: -48506143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_97
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7dec3f9bdd1d4499a08a2c6d8e2a8
+      internalID: 1760342552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_98
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3909609ff32b24a910dfb632c5745c
+      internalID: 2043100366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_99
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5abab89eb6fd04480bdd6a7ac25d36
+      internalID: -983946109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_100
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60270a3d7e2faf4c862a92b7de3b4a7
+      internalID: 1128861530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_101
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f3203035902b439faefc1959fb9a1
+      internalID: 487666054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_102
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46392602e36e9794bab94e0368ef47e1
+      internalID: 990020851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_103
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1830
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ebe3056aa40842a1ea03bbc85e75e
+      internalID: 1906848811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140616fcf436884e952ad9e8be88a3d
+      internalID: -1726235132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_105
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da6b8e72bc1dc4c9da6ed76d256f9c
+      internalID: 688609559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_106
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99eb20a0255c242be5c0513afb732d
+      internalID: -1303751667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_107
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ab8310ac40254388ddfe23276cad4
+      internalID: 580768835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_108
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646305d8cba554643abb9ee0cb0a614a
+      internalID: -678073047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_109
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33121fb92e8e7e409e53f34fdf0e42d
+      internalID: 1869823388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_110
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d84f8fe8ecb4045aedade5efc23664
+      internalID: -405487560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_111
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1220
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469661079bdd6b54e8bbfac58270b321
+      internalID: -1132048973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888eb67fc98c394bb8921aafeda165a
+      internalID: 2111252098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_113
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8417336b7ed1fa444ad3cb29a8a595a8
+      internalID: 1510024433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_114
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae43db1139afbe4c869ed353bab2cb6
+      internalID: -1415472264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_115
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1f99bc726ac24d90d4cb817513b39
+      internalID: -267652468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_116
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f49baa69adc143a915d4b060d416e
+      internalID: 1684352418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_117
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03190d6732cf940a23e3f1d692e2d4
+      internalID: 2107252363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_118
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3a006a8133754c83bd5029fae134d
+      internalID: -1693047114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_119
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 610
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27a0f84ccdad74daee7ffe4b0034c0
+      internalID: -1494553314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217245429d30b0428a0997e83470cba
+      internalID: 1480752399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Operation_121
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 610
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce84e85e4171b748b8c821d78426395
+      internalID: -1542280527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Operation_29: 545305968
+      Operation_115: -267652468
+      Operation_93: -1786018094
+      Operation_41: -1747467845
+      Operation_65: -1831277211
+      Operation_45: 1208578760
+      Operation_15: -1120380580
+      Operation_109: 1869823388
+      Operation_54: 1619227382
+      Operation_120: 1480752399
+      Operation_112: 2111252098
+      Operation_67: 1250571949
+      Operation_2: 983521690
+      Operation_111: -1132048973
+      Operation_90: -76111855
+      Operation_127: -821737023
+      Operation_62: 395167648
+      Operation_58: 1558740949
+      Operation_22: 1748716858
+      Operation_25: 1828093451
+      Operation_59: 1233794009
+      Operation_30: 1122003212
+      Operation_102: 990020851
+      Operation_117: 2107252363
+      Operation_97: 1760342552
+      Operation_0: -1892016280
+      Operation_73: 1801662428
+      Operation_108: -678073047
+      Operation_64: -1734897862
+      Operation_118: -1693047114
+      Operation_39: -1493229178
+      Operation_91: 1658739916
+      Operation_95: 2037669106
+      Operation_96: -48506143
+      Operation_14: -1803291997
+      Operation_77: -1662634372
+      Operation_1: -1687852392
+      Operation_92: 1794476115
+      Operation_123: -336361225
+      Operation_26: -282128152
+      Operation_61: -1335086937
+      Operation_49: -963550069
+      Operation_47: -484337789
+      Operation_88: 1021117588
+      Operation_79: 1364061449
+      Operation_31: -492826116
+      Operation_10: -1621332396
+      Operation_37: 1063936531
+      Operation_56: 1359965274
+      Operation_7: 329819278
+      Operation_107: 580768835
+      Operation_43: -544851162
+      Operation_66: 1897623933
+      Operation_40: 1256919162
+      Operation_63: 777250505
+      Operation_13: 868936243
+      Operation_99: -983946109
+      Operation_104: -1726235132
+      Operation_121: -1542280527
+      Operation_116: 1684352418
+      Operation_35: 1497781867
+      Operation_57: 722198530
+      Operation_72: 1370369401
+      Operation_83: -1256572318
+      Operation_46: -1494216599
+      Operation_48: -441746124
+      Operation_125: -309969688
+      Operation_19: -1504786095
+      Operation_36: 1894835545
+      Operation_51: 1097634296
+      Operation_78: 623477474
+      Operation_110: -405487560
+      Operation_42: 554479431
+      Operation_8: 1911917023
+      Operation_12: 434202635
+      Operation_53: -2121002856
+      Operation_82: 1784366790
+      Operation_74: -836369830
+      Operation_103: 1906848811
+      Operation_87: -246581431
+      Operation_80: 1634891225
+      Operation_71: -357624231
+      Operation_6: 1058017326
+      Operation_50: 1111140830
+      Operation_106: -1303751667
+      Operation_119: -1494553314
+      Operation_5: -1827636646
+      Operation_34: -636902845
+      Operation_3: -141271779
+      Operation_101: 487666054
+      Operation_16: 2132300407
+      Operation_4: 1752210590
+      Operation_126: -1756030258
+      Operation_23: -711458381
+      Operation_84: 127014680
+      Operation_55: -990607006
+      Operation_69: 45434705
+      Operation_124: -1803956112
+      Operation_76: -1951447129
+      Operation_105: 688609559
+      Operation_68: 2048616144
+      Operation_28: -229364505
+      Operation_17: 1200183368
+      Operation_33: -2065828444
+      Operation_75: -1128987226
+      Operation_70: -1205050527
+      Operation_9: -1557746028
+      Operation_86: 817983104
+      Operation_20: -693874261
+      Operation_85: 1023563169
+      Operation_44: -1578012784
+      Operation_113: 1510024433
+      Operation_32: 1491678130
+      Operation_122: -193687654
+      Operation_11: -1344114692
+      Operation_98: 2043100366
+      Operation_18: -1230231801
+      Operation_114: -1415472264
+      Operation_27: -25160673
+      Operation_38: 1163439098
+      Operation_21: -1024767177
+      Operation_24: -1629868432
+      Operation_52: 916396967
+      Operation_94: -1855600275
+      Operation_89: 989809916
+      Operation_81: 1215510707
+      Operation_60: 848918997
+      Operation_100: 1128861530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

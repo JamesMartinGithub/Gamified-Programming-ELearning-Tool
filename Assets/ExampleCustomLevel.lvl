@@ -1,0 +1,6 @@
+Without removing the line 'INT i = RANDOM INT;', and without using 'i =', output i when it has a value of 500
+500
+Can't remove first line, must output i, cant use 'i ='
+$INT i = random INT;&PRINTi
+i=10&i=20&i=30&i=40&i=50&i=60&i=70&i=80&i=90&i=00
+Use 2 WHILE loops to increment i when its below 1100, and decrement i when its above 1100
