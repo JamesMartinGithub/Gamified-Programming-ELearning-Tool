@@ -28,8 +28,18 @@ The thesis report is included in the project as `Final Report.pdf`
   - Comments
  
 ## Gallery:
+<div>
+<img src="https://github.com/user-attachments/assets/6ca360ac-4719-49ec-b395-8142da779012" width="311" height="174" style="display:none">
+<img src="https://github.com/user-attachments/assets/0bc8ccc4-daf2-4a48-8ad7-fbc6b2f95eb6" width="311" height="174" style="display:inline-block">
+<img src="https://github.com/user-attachments/assets/b13187bd-d93d-4209-a2a2-286413851559" width="311" height="174" style="display:inline-block">
+<img src="https://github.com/user-attachments/assets/d10356e4-06f3-4899-a4bb-98a7b3a1dbe2" width="311" height="174" style="display:inline-block">
+<img src="https://github.com/user-attachments/assets/730366d1-b918-45eb-94c3-8356ec1f3db6" width="311" height="174" style="display:inline-block">
+<img src="https://github.com/user-attachments/assets/4cac92f0-3ff6-43d5-9ec3-105c00873694" width="311" height="174" style="display:inline-block">
+</div>
 <img src="https://github.com/user-attachments/assets/10f4a1a3-cc01-4278-9f90-acdd58b718c3" width="500" height="407">
 
+*Visualisation of the AST the pseudocode level parser would generate from an example code
+snippet*
 
 ## Acknowledgements:
 The following assets were used in this project and were not created by myself:
