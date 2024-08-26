@@ -6,9 +6,9 @@ This includes two sets of levels where the user creates programs using a train-t
 The thesis report is included in the project as `Final Report.pdf`
 
 ## Technologies/Techniques Used:
-- Parsing and evaluation of custom programming language
-- Multiple testing types used: unit, partition (including automatic unit tests), and integration testing
-- Thorough and detailed literature review completed on relevant and recent academic literature
+- Lexeme parsing and AST evaluation of a custom programming language
+- Unit, partition, and integration testing
+- Modular and encapsulated code structure
 - Year-long project planning using the agile methodology
 
 ## Features:
