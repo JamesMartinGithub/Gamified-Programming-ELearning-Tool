@@ -1,7 +1,11 @@
 # Gamified-Programming-ELearning-Tool
 (2024) An application developed for my thesis titled: "**Improving learning to program for noncomputer science undergraduates by creating a gamified application**".
 
-This includes two sets of levels where the user creates programs using a train-track-based language and a pseudocode-like language to solve puzzles, in order to introduce programming language constructs and ease the transition to real languages.
+This includes two sets of levels with tasks that involve two custom programming languages of varying abstraction, with parsers built from scratch. They are meant to introduce programming language constructs to the learner and ease the transition to established languages. Each level provides feedback to help the learner find solutions themselves.
+
+- The first language takes the form of visual train tracks and stops that the user drags together to create a complete track program. The program executes visually as the train follows the track and variables are shown changing when stops are visited. This helps the learner understand program flow and debug their solutions.
+
+- The second language resembles pseudocode but with explicit variable assignment and modification. The code is written like a formal language to act as a stepping stone to traditional coding.
 
 The thesis report is included in the project as `Final Report.pdf`
 
